@@ -14,7 +14,7 @@
 - Mod反馈与更新通知QQ群：[617674584](https://qm.qq.com/q/7R7turcQiQ)
 - Discord：[STS2_Mod](https://discord.gg/peRD8SUxXg)
 - 网盘：
-	- [夸克网盘](https://pan.quark.cn/s/f8725a2cf80f)
+	- [夸克网盘](https://pan.quark.cn/s/f8725a2cf80f)（手机点开转存或者通过这个链接开会员的话作者可以恰点烂钱）
 
 目前唯一分发途径为GitHub与网盘链接，以及以后的创意工坊
 
